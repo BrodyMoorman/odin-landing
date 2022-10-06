@@ -172,3 +172,13 @@ a{
     border-radius: 7px;
     padding: 10px 25px 10px;
 }
+.footer{
+    background-color: #1F2937;
+    padding: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-text{
+    color: #E5E7EB;
+}
